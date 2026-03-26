@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou o Otavio  
-🎓 Estudante de DS  
+🎓 Estudante de Desenvolvimento de Sistemas na ETEC
 
 🖥️ Aprendendo JS e Python  
 
