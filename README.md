@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Otavio  
+🎓 Estudante de DS  
+
+🖥️ Aprendendo JS e Python  
+
+📬 otavio.gouveia@live.com  
 
 <!--
 **tavinhopg/tavinhopg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
